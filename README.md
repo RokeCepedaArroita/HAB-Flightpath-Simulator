@@ -9,7 +9,8 @@ The simulation consists of 10,000 statistical sets that arise from setting toler
 This gives a very good tool to understand the uncertainties associated with a particular flight and can be used to assess correlations between flight paths and final uncertainties. It also enables a complete treatment and propagation of errors, which is a key step in determining the feasibility of a particular launch. The program generates the following launch card:
 
 ### Example Simulation Video
-[![Monte Carlo Simulation Example](https://www.youtube.com/watch?v=9tVPAtmtc7w)](https://www.youtube.com/watch?v=9tVPAtmtc7w)
+[![Monte Carlo Simulation Example](https://img.youtube.com/vi/9tVPAtmtc7w/0.jpg)](https://www.youtube.com/watch?v=9tVPAtmtc7w)
+
 
 ### Input
 ```plaintext
